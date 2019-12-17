@@ -1,3 +1,3 @@
 14310
-['KAIST']
-['GIST', 'Computer Science']
+['independence', 'intelligence', 'revolution', 'I_want_to_access', 'It_looks_like_you_are_finally_getting_the_hang_of_it', 'Open_the_application', 'What_do_you_want_to_do_today', 'Why_are_you_always_putting_me_down', 'Would_you_please_be_quiet', "Love_means_never_having_to_say_you_are_sorry"]
+['explanation', 'Please_open_internet_Explorer', 'You_never_get_a_second_chance_to_make_a_first_impression']
